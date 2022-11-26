@@ -12,4 +12,12 @@ The aim of this exercise is to design and write a code to pass all tests.
  - If loaded: its represented as |^^^^|
  The wagons are connected by "::"
  ****************************/
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 I solved this problem using Factory Pattern To build the Train . and Singleton Pattern to create one instant of the Factory . if you have any comment pls contact me in 0681142515 . 
